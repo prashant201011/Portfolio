@@ -1,0 +1,45 @@
+body
+{
+    margin: 0px;
+}
+.container1
+{
+    height: 100px;
+    width: 100px;
+    border: solid blue;
+    
+}
+.container2
+{
+    position: relative;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    border: solid yellow;
+    
+}
+.container3
+{
+    position: relative;
+    left: 200px;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+    
+}
+.container4
+{
+    position: relative;
+    left: 300px;
+    height: 100px;
+    width: 100px;
+    border: solid red;
+    
+}
+.bosscontainer
+{
+    height: 500px;
+    border: solid rebeccapurple;
+    background-color: skyblue;
+}
+

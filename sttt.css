@@ -1,0 +1,42 @@
+
+
+.top-container
+{
+    border: solid 10px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    background-color:powderblue;
+}
+.middle-container
+{
+    border: solid 20px;
+    width: 200px;
+    height: 200px;
+    margin-left: 260px;
+    background-color: red;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 500px; ;
+    background-color: yellow;
+}
+span
+{
+    background-color: cadetblue;
+    display: block;
+    }
+
+.acro
+{
+    background-color: darkmagenta;
+    display: inline;
+    }
+p
+{
+    background-color: darkorange;
+    display: inline-block;
+    width: 100px;
+}
